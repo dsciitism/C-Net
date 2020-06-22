@@ -1,5 +1,6 @@
 # C-Net
-C-Net: Contextual Network for Sarcasm Detection 
+C-Net: Contextual Network for Sarcasm Detection  
+Authors: Amit Kuamr Jena, Aman Sinha, Rohit Agarwal  
 (Accepted at FigLang 2020 Workshop, co-located with ACL 2020)
 
 # Why it is Important ?
