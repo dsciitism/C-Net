@@ -31,3 +31,24 @@ Here, ‘n’ is the maximum size of the context set. Model-1, 2, 3... n+1 are B
 
 # Results
 Overall, the C-Net model gave the best results as compared to all the approaches on the twitter test dataset (0.750 F1-score).
+
+## Citation
+
+The paper in the ACL anthology can be found [here](https://www.aclweb.org/anthology/2020.figlang-1.8/) and do cite our work if it proved to be useful in anyway!
+
+``` 
+@inproceedings{kumar-jena-etal-2020-c,
+    title = "{C}-Net: Contextual Network for Sarcasm Detection",
+    author = "Kumar Jena, Amit  and
+      Sinha, Aman  and
+      Agarwal, Rohit",
+    booktitle = "Proceedings of the Second Workshop on Figurative Language Processing",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.figlang-1.8",
+    pages = "61--66",
+    abstract = "Automatic Sarcasm Detection in conversations is a difficult and tricky task. Classifying an utterance as sarcastic or not in isolation can be futile since most of the time the sarcastic nature of a sentence heavily relies on its context. This paper presents our proposed model, C-Net, which takes contextual information of a sentence in a sequential manner to classify it as sarcastic or non-sarcastic. Our model showcases competitive performance in the Sarcasm Detection shared task organised on CodaLab and achieved 75.0{\%} F1-score on the Twitter dataset and 66.3{\%} F1-score on Reddit dataset.",
+}
+```
